@@ -1,4 +1,4 @@
-## Scraping da B3 - Composição do Índice IBOVESPA
+## Scraping da B3
 
 Este projeto realiza o web scraping da composição do índice IBOVESPA diretamente do site da B3, salvando os dados localmente em formato Parquet para análise posterior.
 ### 📌 Funcionalidades
